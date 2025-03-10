@@ -5,6 +5,9 @@ body {
 
 nav {
 	position: fixed;
+}
+
+a {
 	margin: auto;
 	text-align: center;
 }
